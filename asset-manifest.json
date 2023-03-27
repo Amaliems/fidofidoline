@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/fidofidoline/static/css/main.ab67f7a0.css",
-    "main.js": "/fidofidoline/static/js/main.2e46a031.js",
+    "main.js": "/fidofidoline/static/js/main.b0fb4b73.js",
     "static/js/787.b75db449.chunk.js": "/fidofidoline/static/js/787.b75db449.chunk.js",
     "static/media/Hund.jpg": "/fidofidoline/static/media/Hund.494cbbc374fa945fc39c.jpg",
     "index.html": "/fidofidoline/index.html",
     "main.ab67f7a0.css.map": "/fidofidoline/static/css/main.ab67f7a0.css.map",
-    "main.2e46a031.js.map": "/fidofidoline/static/js/main.2e46a031.js.map",
+    "main.b0fb4b73.js.map": "/fidofidoline/static/js/main.b0fb4b73.js.map",
     "787.b75db449.chunk.js.map": "/fidofidoline/static/js/787.b75db449.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab67f7a0.css",
-    "static/js/main.2e46a031.js"
+    "static/js/main.b0fb4b73.js"
   ]
 }
